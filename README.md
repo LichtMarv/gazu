@@ -19,4 +19,4 @@ $ python3 -m http.server 8080
 
 you can change `8080` to port of your choosing
 
-[marked]: (https://github.com/markedjs/marked)
+[marked]: https://github.com/markedjs/marked
