@@ -1,0 +1,31 @@
+body {
+    color:white;
+    /* text-align: center; */
+    height: 100%;
+    overflow-x: hidden;
+    font-size: 20px;
+    font-family: "Calibri", "Arial";
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    width: 100%;
+}
+
+
+pre::-webkit-scrollbar {
+    display: auto;
+}
+
+pre {
+    padding: 5px;
+    background-color: #aaaaaa;
+    width:fit-content;
+    margin: 0;
+    border-radius: 5px;
+    overflow-x: auto;
+    max-width: 30%;
+}
