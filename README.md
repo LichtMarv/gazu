@@ -14,6 +14,7 @@ GAZU is a simple http site for me to experiment with css and stuff.
 download the source and run:
 
 ```consolas
+$ npm i
 $ python3 -m http.server 8080
 ```
 
